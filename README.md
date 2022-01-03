@@ -23,3 +23,10 @@ This week we're going to learn about some system development methodologies.
 
 * Computer Science Vs Software Engineering (14 min): https://www.youtube.com/watch?v=VxvQYZJNLxI
 * Software engineering (11 min): https://www.youtube.com/watch?v=O753uuutqH8&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
+* More on Agile principles:
+  * The Agile Manifesto: https://agilemanifesto.org/ 
+  * https://www.scaledagileframework.com/lean-agile-mindset/ (Links to an external site.) 
+  * https://www.scaledagileframework.com/safe-lean-agile-principles/ (Links to an external site.) 
+  * https://scaledagile.com/insights-customer-stories/ (Links to an external site.)
+  * Agile tutorial for beginners (1 hour 22 min): https://www.youtube.com/watch?v=KNBHQ0pyaG8 (Links to an external site.)
+  * Scrum vs. Kanban (19 min): https://www.youtube.com/watch?v=pxxmSLJj8FQ

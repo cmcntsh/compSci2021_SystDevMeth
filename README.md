@@ -15,6 +15,7 @@ This week we're going to learn about some system development methodologies.
 * What is waterfall? (9 min): https://www.youtube.com/watch?v=LxEmGNgqYJA
 * What is agile? (10 min): https://www.youtube.com/watch?v=GzzkpAOxHXs
 * 6 Project management methodologies (6 min): https://www.youtube.com/watch?v=CBPwnWULtUU
+* Scaled Agile Framework (SAFe) (43 min): https://www.youtube.com/watch?v=prlzeOQhHmg
 * Implementation Overview https://link.springer.com/chapter/10.1007/978-1-4757-4343-2_1
 * 3 Key software principles https://code.tutsplus.com/tutorials/3-key-software-principles-you-must-understand--net-25161
 
